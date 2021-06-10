@@ -1,5 +1,5 @@
 # Fast_Food_Project
-##Group Project Shared Repository
+## Group Project Shared Repository
 
 - Selected topic: Fast Food Restaurants across the United States
 
@@ -10,7 +10,7 @@
 - Questions they hope to answer with the data: Which states have the most and least fast food restaurants per capita?
 
 
-##Communication Protocol:
+## Communication Protocol:
 - The team will primarily communicate via slack.
 - Any urgent communication will occur via phone or text.
 - Emails have been exchanged to share any documents, templates or links.
