@@ -9,4 +9,4 @@ Postgres is the database we intend to use.
 SciKitLearn is the Machine Learning library we'll be using to create a classifier.
 
 ## Dashboard
-We will use Tableu for a fully functioning and interactive dashboard.
+We will use Tableau for a fully functioning and interactive dashboard.
