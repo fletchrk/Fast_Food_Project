@@ -9,12 +9,19 @@
 
 - Questions they hope to answer with the data: 
   1- Which states have the most and least fast food restaurants per capita?
+  
   2- Which cities have the most and least McDonald's per capita?
+  
   3- What are the Fast food restaurants per capita for all states?
+  
   4- Which Fast food restaurants have the most locations nationally?
+  
   5- What major cities have the most and least fast food restaurants per capita?
+  
   6- What are the small cities with the most fast food restaurants per capita?
+  
   7- Which states have the most and least fast food restaurants per capita?
+  
   8- What is the number of fast food restaurants per capita?
 
 
