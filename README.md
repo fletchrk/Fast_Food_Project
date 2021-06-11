@@ -7,7 +7,8 @@
 
 - Description of data source: The data set was obtained from kaggle.com and was uploaded by Datafiniti's Business Database. The data can be found [here.](https://www.kaggle.com/datafiniti/fast-food-restaurants) The data is a sample of a much larger data and was selected randomly. By selecting the sample randomly, we expect the data to be representative of the complete data. 
 
-- Questions they hope to answer with the data: 
+- Questions they hope to answer with the data:
+ 
   1- Which states have the most and least fast food restaurants per capita?
   
   2- Which cities have the most and least McDonald's per capita?
