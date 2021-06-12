@@ -1,0 +1,83 @@
+{\rtf1\fbidis\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\tx720\cf1\fs38 # Fast Food Project\par
+\par
+Import numpy as np\par
+Import pandas as pd\par
+from pathlib import Path\par
+\par
+from sklearn.metrics import_balanced_ accuracy_ score\par
+from sklearn.metrics import confusion_matrix\par
+from imblearn.metrics import classification_report_imbalanced\par
+\par
+# This a comment line. Read CSV and Perform Basic Data Cleaning\par
+\par
+# Load the Data. This is pseudo code\par
+file_path= Path('Name.csv')\par
+df=pd.read_csv(file_path,skiprows=1):[:-2]\par
+df=df.loc [:,columns].copy()\par
+\par
+# Drop the null columns,where all the values are null\par
+df=df.dropna(axis='columns', how 'all')\par
+\par
+# Drop the null rows\par
+df=df.dropna()\par
+\par
+#Split Data into Training and Testing. \par
+X=df.drop(columns="Name of the columns")\par
+X=pd.get_dummies (X)\par
+\par
+# Create our target. y is the dependent variable.\par
+y=df.loc[:, target].copy()\par
+\par
+X.describe ()\par
+\par
+# Check the balance of our target values\par
+from sklearn.model_selection import train_test_split\par
+X_train,X_test, y_train,y_test=train_test_split(X,y, random_state=1)\par
+\par
+# Balanced Random Forest Classifier\par
+\par
+# Resample the training data with BalancedRandomForestClassifier\par
+balance_RF=BalanceRandomForestClassifier(n_estimator=100, random_state=1)\par
+balance_RF.fit(X_train,y_train)\par
+\par
+# Calculated the balanced accuracy score\par
+y_pred= balance_RF.predict (X_test)\par
+balanced_accuracy_score(y_test,y_predict)\par
+\par
+#Display confusion matrix\par
+confusion_matrix(y_test,y_pred)\par
+\par
+#List the features sorted in descending order by feature importance\par
+importance=balance_RF.feature_importances_cols=X.columns\par
+\par
+#Store in DataFrame\par
+feature_importance_df=pd.Dataframe(('feature':cols, 'importance':importances))\par
+\par
+feature_importance_df.head()\par
+\par
+# We are going to do only one method, whichever the group prefers and the TAs advise. This is a script modified from Module 17. We can use other scripts available on Kraggle or come up with our own ideas.\par
+\par
+References:\par
+\par
+1.Learn Jupyter:Python Technologies (Quick Simple Learning)\par
+2.Practical Data Analysis Using Jupyter Notebook-Marc Wintjen\par
+3.Automate the Boring Staff with Python:Al Sweigart\par
+4. Hands-on Machine Learning with Scikit-Learn Keras and Tensor Flow:Aurelien Geron\par
+5. Class Notes\par
+    \par
+# We will get help from any source to get this project off the ground. \par
+\par
+\par
+\par
+\par
+\par
+\par
+Df\par
+\par
+\par
+\par
+\f1\par
+}
