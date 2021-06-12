@@ -3,10 +3,10 @@
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python in a Jupyter Notebook.
 
 ## Database Storage
-Postgres is the database we intend to use.
+Postgres SQL is the database we intend to use.
 
 ## Machine Learning
-SciKitLearn is the Machine Learning library we'll be using to create a classifier.
+SciKitLearn is the Machine Learning library for Python we'll be using to create a supervised learning model. This entails creating the model, training the model and then creating predictions. More specifically we intend to use the linear regression model since our data is continuous and not categorical. 
 
 ## Dashboard
 We will use Tableau for a fully functioning and interactive dashboard.
