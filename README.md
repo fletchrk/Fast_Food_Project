@@ -1,4 +1,5 @@
-# Fast_Food_Project
+# ![Image](https://github.com/fletchrk/Fast_Food_Project/blob/main/Resources/Image.png)
+
 ## Group Project Shared Repository
 
 - Selected topic: The relationship between fast food restaurants and diabetes across the United States
