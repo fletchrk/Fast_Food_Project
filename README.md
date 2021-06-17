@@ -6,7 +6,7 @@
 
 - Reason why topic was selected: The team selected this topic based on common interests among the team members. Several other topics were considered such as personality tests, Michelin restaurants, unemployment rates and topics related to the pandemic. However, we settled on Fast Foods and diabtes for logistical reasons, such as access to a complete data set. 
 
-- Description of data source: The data set was obtained from kaggle.com and was uploaded by Datafiniti's Business Database. The data can be found [here.](https://www.kaggle.com/datafiniti/fast-food-restaurants) We will be merging the fast food data with the diabetes data. Teh diabetes data set was obtianed from teh CDC website and can be found [here.](https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html#) 
+- Description of data source: The data set was obtained from kaggle.com and was uploaded by Datafiniti's Business Database. The data can be found [here.](https://www.kaggle.com/datafiniti/fast-food-restaurants) We will be merging the fast food data with the diabetes data. The diabetes data set was obtianed from the CDC website and can be found [here.](https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html#) We are using a third data set from census.gov to obtain the population from each county and state. This data can be found [here.](https://www.census.gov/acs/www/data/data-tables-and-tools/data-profiles/2017/)
 
 - Questions we hope to answer with the data:
  
