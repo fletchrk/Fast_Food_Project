@@ -12,21 +12,19 @@
  
   1- Which states have the most fast food restaurants per capita?
   
-  2- Which counties have the most McDonald's per capita?
+  2- What are the Fast food restaurants per capita for all states?
   
-  3- What are the Fast food restaurants per capita for all states?
+  3- Which Fast food restaurants have the most locations nationally?
   
-  4- Which Fast food restaurants have the most locations nationally?
+  4- What is the number of fast food restaurants per capita nationally?
   
-  5- What is the number of fast food restaurants per capita nationally?
+  5- Which states have the most cases of diabetes?
   
-  6- Which states have the most cases of diabetes?
+  6- Which counties have the most cases of diabetes?
   
-  7- Which counties have the most cases of diabetes?
+  7. What is the national number of diabetes cases?
   
-  8- What is the national number of diabetes cases?
-  
-  9- Does the number of fast food restaurants correlate to the number of diabetes cases by county or by state?
+  8- Does the number of fast food restaurants correlate to the number of diabetes cases by state?
 
 
 ## Communication Protocol:
