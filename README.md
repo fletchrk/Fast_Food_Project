@@ -38,6 +38,8 @@
 
 - Explanation of model choice, including limitations and benefits: The benefit of this model is that after establishing a correlation the model is able to predict the value of y when the value of x is given. This would be useful information if we wanted to develop a plan to decrease the rate of diabetes per state or nationally. We would have an understanding of what the ratios should look like and make decisions from there. We could also plan diabetes treatment based on the number of cases we expect to see as we see the the number of restaurants increase. The modeled data and the actual data show a similar trend. The limitation is that there are other variables to consider and this model is not able to take all of that into consideration. 
 
+- Dashboard draft can be found [here.](https://public.tableau.com/app/profile/rachel.fletcher3993/viz/Fast_Food_Project/_FF_Restaurants)
+
 ## Communication Protocol:
 - The team will primarily communicate via slack.
 - Any urgent communication will occur via phone or text.
