@@ -10,7 +10,7 @@
 
 - Questions we hope to answer with the data:
  
-  1- Which states have the most fast food restaurants per capita?
+  1- Which states have the most and least fast food restaurants?
   
   2- What are the Fast food restaurants per capita for all states?
   
