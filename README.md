@@ -37,3 +37,16 @@
 - Explanation of model choice, including limitations and benefits: The benefit of this model is that after establishing a correlation the model is able to predict the value of y when the value of x is given. This would be useful information if we wanted to develop a plan to decrease the rate of diabetes per state or nationally. We would have an understanding of what the ratios should look like and make decisions from there. We could also plan diabetes treatment based on the number of cases we expect to see as we see the the number of restaurants increase. The modeled data and the actual data show a similar trend. The limitation is that when using this model, we included other possible risk factors, but there are many more to consider and this model is not able to take all of that into consideration. Additionally, another limitation is found within the data sets. The data used is a sample, and even though it was randomly selected and should be predictive of the actual values, it is still a sample and could have some skewed data. 
 
 - The Dashboard with the visualizations can be found [here.](https://public.tableau.com/app/profile/rachel.fletcher3993/viz/Fast_Food_Project/_FF_Restaurants) The visualizations and the dashboard were created using Tableau. 
+
+### Technologies Used
+- Data Cleaning and Analysis:
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python in a Jupyter Notebook.
+
+- Database Storage:
+Postgres SQL is the database we intend to use.
+
+- Machine Learning:
+SciKitLearn is the Machine Learning library for Python we'll be using to create a supervised learning model. This entails creating the model, training the model and then creating predictions. More specifically we intend to use the linear regression model since our data is continuous and not categorical. 
+
+- Dashboard:
+We will use Tableau for a fully functioning and interactive dashboard.
