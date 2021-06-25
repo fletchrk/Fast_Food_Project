@@ -50,3 +50,6 @@ SciKitLearn is the Machine Learning library for Python we'll be using to create 
 
 - Dashboard:
 We will use Tableau for a fully functioning and interactive dashboard.
+
+- Google Slides:
+To access the presentation click on the google slides [link.](https://drive.google.com/file/d/1He-NSL58hJ7rZ04gDH3EYZGbVNBDyOa9/view?usp=sharing)
