@@ -61,7 +61,6 @@ SciKitLearn is the Machine Learning library for Python we'll be using to create 
 - Dashboard:
 We will use Tableau for a fully functioning and interactive dashboard and can be found [here.]
 (https://public.tableau.com/app/profile/giulia.tasca/viz/Fast_Food_Project_16250237518670/Dashboard_Graphics_1)
-(https://public.tableau.com/app/profile/rachel.fletcher3993/viz/Fast_Food_Project/_FF_Restaurants)
 
 - Google Slides:
 To access the presentation click on the google slides [link.](https://drive.google.com/file/d/1He-NSL58hJ7rZ04gDH3EYZGbVNBDyOa9/view?usp=sharing)
