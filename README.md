@@ -12,17 +12,15 @@
  
   1- Which states have the most and least fast food restaurants?
   
-  2- What are the top 10 Fast food restaurants nationally?
+  2- What are the top 10 Fast food restaurants nationally?Which Fast food restaurants have the most locations nationally?
   
-  3- Which Fast food restaurants have the most locations nationally?
+  3- What is the number of fast food restaurants per capita by state?
   
-  4- What is the number of fast food restaurants per capita by state?
+  4- Which states have the most cases of diabetes?
   
-  5- Which states have the most cases of diabetes?
+  5- What is the national number of diabetes cases? and number of diabetes realated risk factors (smokers, obesity, non-activity levels)?
   
-  6- What is the national number of diabetes cases? and number of diabetes realated risk factors (smokers, obesity, non-activity levels)?
-  
-  7- Does the number of fast food restaurants correlate to the number of diabetes cases by state? 
+  6- Does the number of fast food restaurants correlate to the number of diabetes cases by state? 
   
  - Description of the data exploration phase of the project: The main data sets consisted of two files for fast food restaurant data. We created the tables in  postgres SQL, renamed the columns to match each other and then merged the data using a full join. Then the data was exported and uploaded into the jupyter notebook for additional exploratory analysis. When we ran some code to create additional joins, we realized other areas that needed cleaning in the data. For example when running the code to groupby state, we realized one data set had included Puerto Rico but the other did not. We then dropped those rows for consistency. Another important element we discovered, was that we originally intended to analyze the data by counties and by states, but we realized the fast food data set did not include a county. We did have the longitude and latitude for the restaurants but were unable to find a way to add the counties using these, since counties overlap cities and longitude and logitude. We instead decided to focus our analysis by state. 
  
