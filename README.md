@@ -33,13 +33,19 @@
 
 - Explanation of model choice, including limitations and benefits: The benefit of this model is that after establishing a correlation the model is able to predict the value of y when the value of x is given. This would be useful information if we wanted to develop a plan to decrease the rate of diabetes per state or nationally. We would have an understanding of what the ratios should look like and make decisions from there. We could also plan diabetes treatment based on the number of cases we expect to see as we see the the number of restaurants increase. The modeled data and the actual data show a similar trend. The limitation is that when using this model, we included other possible risk factors, but there are many more to consider and this model is not able to take all of that into consideration. Additionally, another limitation is found within the data sets. The data used is a sample, and even though it was randomly selected and should be predictive of the actual values, it is still a sample and could have some skewed data. When evaluating the linear regression model, the scores were all very promising. We decided to include a second model to compare the scores. We chose the Random Forest Regression model, because while it does not provide the speed the linear regression model does with large data sets, it will increase the acurracy by creating several predictions and providing an average.
 
-- Result of analysis: 
+- Result of analysis: Based on the Pearson Correlation Coefficient and the visualizations, the machine learning models were both very effective at predicting the values of "y" (diabetes per capita). The linear regression model had a Pearson value of 97.0%, while the Random Forest Regression Model had a value of 96.9%. 
 
 - Recommendation for future analysis: 
 
 - Anything the team would have done differently:
 
-- Description and explanation of model’s confusion matrix, including final accuracy score: 
+- Description and explanation of model’s confusion matrix, including final accuracy score: Since our predictions were continuous, we did not evaluate the model using the confusion matrix. Instead we calculated Mean Square Error, R Squared, Spearman Correlation Coeficient, Pearson Correlation Coefficient and p-values. The mean square error: is the variance around the fitted regression line. The lower the number, the smaller the “errors/ variance”. 
+R squared: measures the strength of the relationship between the model and the rates of diabetes. Generally, the higher the better, but if it is too close to 100%, then there could be overfitting.  Spearman Correlation Coefficient: can take values from +1 to -1.  +1 indicates a perfect association, zero indicates no association between ranks and -1 indicates a perfect negative association.  The smaller the p-value, the stronger the evidence that you should reject the null hypothesis. The p-value is the probability that the null hypothesis is true.  Pearson Correlation Coefficient: If the coefficient value lies between ± 0.50 and ± 1, then it is said to be a strong correlation. Both models did exceptionally well in all areas in which they were evaluated and compared. Below is an image of the results. 
+
+![lrm](https://github.com/fletchrk/Fast_Food_Project/blob/main/Resources/lrm.png)
+
+
+![rfr](https://github.com/fletchrk/Fast_Food_Project/blob/main/Resources/rfr.png)
 
 
 ### Technologies Used
