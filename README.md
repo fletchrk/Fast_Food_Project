@@ -36,6 +36,15 @@
 
 - Explanation of model choice, including limitations and benefits: The benefit of this model is that after establishing a correlation the model is able to predict the value of y when the value of x is given. This would be useful information if we wanted to develop a plan to decrease the rate of diabetes per state or nationally. We would have an understanding of what the ratios should look like and make decisions from there. We could also plan diabetes treatment based on the number of cases we expect to see as we see the the number of restaurants increase. The modeled data and the actual data show a similar trend. The limitation is that when using this model, we included other possible risk factors, but there are many more to consider and this model is not able to take all of that into consideration. Additionally, another limitation is found within the data sets. The data used is a sample, and even though it was randomly selected and should be predictive of the actual values, it is still a sample and could have some skewed data. When evaluating the linear regression model, the scores were all very promising. We decided to include a second model to compare the scores. We chose the Random Forest Regression model, because while it does not provide thye speed the linear regression model does with large data sets, it will increase the acurracy by creating several predictions and providing an average.
 
+- Result of analysis: 
+
+- Recommendation for future analysis:
+
+- Anything the team would have done differently:
+
+- Description and explanation of model’s confusion matrix, including final accuracy score: 
+
+
 ### Technologies Used
 - Data Cleaning and Analysis:
 Pandas was used to clean the data and perform an exploratory analysis. Further analysis was completed using Python in a Jupyter Notebook.
