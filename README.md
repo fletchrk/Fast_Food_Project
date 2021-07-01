@@ -59,7 +59,8 @@ Postgres SQL is the database we used for storing and merging the initial data se
 SciKitLearn is the Machine Learning library for Python we'll be using to create a supervised learning model. This entails creating the model, training the model and then creating predictions. More specifically we intend to use a multiple linear regression model since our data is continuous and not categorical, as well as a Random Forest Regression model to draw comparisons. 
 
 - Dashboard:
-We will use Tableau for a fully functioning and interactive dashboard and can be found [here.](https://public.tableau.com/app/profile/giulia.tasca/viz/Fast_Food_Project_16250237518670/Dashboard_Graphics_1)
+We will use Tableau for a fully functioning and interactive dashboard and can be found [here.]
+(https://public.tableau.com/app/profile/giulia.tasca/viz/Fast_Food_Project_16250237518670/Dashboard_Graphics_1)
 
 - Google Slides:
 To access the presentation click on the google slides [link.](https://drive.google.com/file/d/1He-NSL58hJ7rZ04gDH3EYZGbVNBDyOa9/view?usp=sharing)
