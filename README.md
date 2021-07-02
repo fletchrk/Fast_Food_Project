@@ -43,10 +43,6 @@
 - Description and explanation of model’s confusion matrix, including final accuracy score: Since our predictions were continuous, we did not evaluate the model using the confusion matrix. Instead we calculated Mean Square Error, R Squared, Spearman Correlation Coeficient, Pearson Correlation Coefficient and p-values. The mean square error: is the variance around the fitted regression line. The lower the number, the smaller the “errors/ variance”. 
 R squared: measures the strength of the relationship between the model and the rates of diabetes. Generally, the higher the better, but if it is too close to 100%, then there could be overfitting.  Spearman Correlation Coefficient: can take values from +1 to -1.  +1 indicates a perfect association, zero indicates no association between ranks and -1 indicates a perfect negative association.  The smaller the p-value, the stronger the evidence that you should reject the null hypothesis. The p-value is the probability that the null hypothesis is true.  Pearson Correlation Coefficient: If the coefficient value lies between ± 0.50 and ± 1, then it is said to be a strong correlation. Both models did exceptionally well in all areas in which they were evaluated and compared. Below is an image of the results. 
 
-![lrm](https://github.com/fletchrk/Fast_Food_Project/blob/main/Resources/lrm.png)
-
-
-![rfr](https://github.com/fletchrk/Fast_Food_Project/blob/main/Resources/rfr.png)
 
 
 ### Technologies Used
