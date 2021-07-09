@@ -37,20 +37,24 @@ This is 2019 data, but in 2020 the Corona Virus took over, so all the GDP compon
 For the fast food industry, with the population remaining largely static, increase in the middle classes would help. Average family spends about $3000 per year on Fast Food. In other words, market has increased. With increased market, the industry would have good Return on Investment (ROI) and consequently attract investment capital. The current ROI is stated to be 20%, which is very high and quite good. The Chinese Fast Food Company-Pandas is advertising ROI of 25%.
 So, it became important for to calculate and predict the future GDP. The regression prediction model proved to be unsatisfactory as it could not match the existing data. This was supervised learning.
 Another model called the mathematical model proved better, it was piece-wise linear model, based on average growth rate of 5 years and updated every year with new data, it was a rolling forecast model.
+Reference:
+https://docs.google.com/presentation/u/0/
+Fast_Food_Industry:The Business Case  Slides 7,8,10,11,12,13
+Original_Power_Point_Presentation
 
 
  
 This model provided a glimmer of hope, it was almost right, both the lines were matched.
   
-  
+https://docs.google.com/presentation/u/0/  
   
  This model had lot of variance the shaded areas reflect upper and lower bounds, so it was discarded.
 So the search for the model continued and the parameters were that it should have a notebook code and be accurate. In www.google.com such a model was found and incorporated.
  
-
+https://docs.google.com/presentation/u/0/
 This model the actual line matched the red line, which was drawn. We had the model, but we had no theory, so the author started to search literature, and is it turned out it was the TIME SERIES MODEL, which has been used for forecasting stock market.  The model is also taught in Industrial Engineering and in Statistics Classes (Statistics for Business and Economics: McClave, Benson, Sincich-9th Edition).
 Both the TIME SERIES MODEL and the Mathematical Model can be used. Next year’s GDP would be a little above 2019 GDP. The GDP went down 3.5%, then comes up 3.75%, so it will be a recovery year.
 So investment in Fast Food Industry is a strong buy.
 References:
-1.	www.google.com
+1.	www.google.com(https://docs.google.com/presentation/u/0/)
 2.	McClave, Benson, Sincich-9th Edition: Statistics for Business and Economics
