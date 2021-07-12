@@ -66,4 +66,4 @@ We will use Tableau for a fully functioning and interactive dashboard and can be
 [here.](https://public.tableau.com/app/profile/giulia.tasca/viz/Fast_Food_Project_16250237518670/Story1)
 
 - Google Slides:
-To access the presentation click on the google slides [link.](https://drive.google.com/file/d/1He-NSL58hJ7rZ04gDH3EYZGbVNBDyOa9/view?usp=sharing)
+To access the presentation click on the google slides [link.](https://drive.google.com/file/d/1He-NSL58hJ7rZ04gDH3EYZGbVNBDyOa9/view?usp=sharing).
